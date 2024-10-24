@@ -9,7 +9,7 @@
 
 <h3 align="center">Headless CMS с открытым исходным кодом, self-hosted или Облаке под вашим контролем..</h3>
 <p align="center">Ведущая headless CMS с открытым исходным кодом, 100% JavaScript/TypeScript, гибкая и полностью настраиваемая.</p>
-<p align="center"><a href="https://cloud.strapi.io/signups?source=github1">Cloud</a> · <a href="https://strapi.io/demo?utm_campaign=Growth-Experiments&utm_source=strapi%2Fstrapi%20README.md">Try live demo</a></p>
+<p align="center"><a href="https://cloud.strapi.io/signups?source=github1">Cloud</a> · <a href="https://strapi.io/demo?utm_campaign=Growth-Experiments&utm_source=strapi%2Fstrapi%20README.md">Попробуйте демо в реальном времени</a></p>
 <br />
 
 <p align="center">
